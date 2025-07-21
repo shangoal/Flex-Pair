@@ -1,2 +1,2 @@
-# Flex-MD
-Flex Music Official Team Services
+# Flex pair
+Flex Official Team Services
