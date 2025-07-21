@@ -1,10 +1,10 @@
 {
 "name": "Flex-MD",
     "version": "0.0.1",
-    "description": "Flex Music World.",
+    "description": "Flex Team Creation.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name Flex",
+      "start": "pm2 start index.js --deep-monitoring --attach --name start Flex",
       "stop": "pm2 stop Flex",
      "restart": "pm2 restart Flex"
     },
